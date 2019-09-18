@@ -1,5 +1,4 @@
 # backlog 
- - 
  - 		this is a test to see if this works
  - 		STD Issues to fix in ver 3.0:
  - 			sort the keys that you display in terms of alphabetical order using a data structure 
@@ -37,10 +36,5 @@
  - 		Make a CLI where  you can keep track of your day 
  - 		You should make a CLI Client for Timesaver
  - 		Make a contribution to go for github
- - 
- - 
- - 
  - # Hit MQ when you are finished
- - 
- - 
  - current git location: /Users/benmorehouse/repositories/backlog
