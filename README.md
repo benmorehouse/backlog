@@ -26,5 +26,7 @@
 
  - Interested libraries in Go that i am looking at right now: https://golang.org/pkg/database/sql/  
  - Build an IO stream for handling TCP connections
+ - Build a Slackbot that will update us on if a website is up and functioning?
+ - 	Also give it the functionality that will tell you to commit once a day if you have not yet
 
  - current git location: /Users/benmorehouse/repositories/backlog
