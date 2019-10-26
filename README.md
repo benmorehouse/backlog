@@ -4,6 +4,7 @@
  - Need to create some sort of notepad section to list the available notes that you are working on 
  - Make something that will show all of the aliases that you have made for std 
  - You could also come up with something that will let you send this note to someone via an imessage or email 
+ - Use regular expressions to match up similar input for std
 
  - Build a web crawler that can crawl the internet and take data from websites using goquery. This will be good for plane information
  - Make CLI for sending messages
@@ -26,5 +27,8 @@
  - build a url shortener CLI and use it for things like USC login and github
  - Build some sort of API https://jonnylangefeld.com/blog/how-to-write-a-go-api-part-1-webserver-with-iris
  - Build an iMessage API in go that uses json
+ - Build an app that looks at all the programming languages that have been made that you are interested in
+
+
 
  - current git location: /Users/benmorehouse/repositories/backlog
