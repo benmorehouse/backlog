@@ -28,7 +28,7 @@
  - Build some sort of API https://jonnylangefeld.com/blog/how-to-write-a-go-api-part-1-webserver-with-iris
  - Build an iMessage API in go that uses json
  - Build an app that looks at all the programming languages that have been made that you are interested in
-
-
+ - Build a webscraping API that will scrape a website based purely on the html that you paste into it 
+ - Build an application that names /Users/benmorehouse/Library/Developer/CoreSimulator/Devices
 
  - current git location: /Users/benmorehouse/repositories/backlog
