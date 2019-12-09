@@ -1,11 +1,22 @@
 # backlog 
- - STD Issues to fix in ver 3.0:
+
+ - # Top priorities
+
+ - Build a data structures and algorithms api in Golang
+ - Build the Gofiler
+ - Build the algorithm visualizer idea for usc
+ - Build Helper
+ - Build Helper website
+ - Review Docker and Kubernetes material 
+
+ - # STD Issues to fix in ver 3.0:
  - Need to create the list rename function 
  - Need to create some sort of notepad section to list the available notes that you are working on 
  - Make something that will show all of the aliases that you have made for std 
  - You could also come up with something that will let you send this note to someone via an imessage or email 
  - Use regular expressions to match up similar input for std
 
+ - # Side projects
  - Make a CLI about URL Shortening 
  - Make a github CLI
  - Make a google sheets editing CLI - can then use this with imessage-bot
