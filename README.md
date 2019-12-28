@@ -3,10 +3,9 @@
  - # Top priorities
 
  - Build a data structures and algorithms api in Golang
+ - 	implement the testing portion with ginkgo framework
  - Build the Gofiler
  - Build the algorithm visualizer idea for usc
- - Build Helper
- - Build Helper website
  - Review Docker and Kubernetes material 
 
  - # STD Issues to fix in ver 3.0:
@@ -39,20 +38,18 @@
  - Build out the coursework for the class you are interested in.
  - Do the udemy course for Docker?
  - Build an algorithm visualizer for USC! This would be very cool to show off in interviews! 
+ - Build an algorithm that does search engine type of dictionary search - CLI
+ - Built a real life compiler and displayer for the basic programming language implementation you worked on.
 
  - # Thanksgiving Week Hacking
 
  - Learn the 5 JS development frameworks for Web Publishing
  - Build out the iOS app more:
- - - implement Firebase RDS 
- - - Stripe implementation
  - - Get the QR code implementation finished
+
 
  - Build out the website for Helper:
  - - Build it using Vue JS!
-
- - Built out the website for the presentation for the class
- - - s
 
 
 
