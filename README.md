@@ -1,10 +1,12 @@
 # backlog 
 
- - # Top priorities
+ - # Top projects
 
- - Build a data structures and algorithms api in Golang
- - 	implement the testing portion with ginkgo framework
- - Build the Gofiler
+ - Hashicorp Python wrapper
+ - Hackernews cli
+ - Yaml parser in Go
+ - Work with Ginkgo testing for alGOrithms
+ - Build the Gofiler tool
  - Build the algorithm visualizer idea for usc
  - Review Docker and Kubernetes material 
 
@@ -15,7 +17,7 @@
  - You could also come up with something that will let you send this note to someone via an imessage or email 
  - Use regular expressions to match up similar input for std
 
- - # Side projects
+ - # Side projects ideas
  - Make a CLI about URL Shortening 
  - Make a github CLI
  - Make a google sheets editing CLI - can then use this with imessage-bot
