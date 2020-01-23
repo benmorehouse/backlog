@@ -7,8 +7,15 @@
  - Yaml parser in Go
  - Work with Ginkgo testing for alGOrithms
  - Build the Gofiler tool
- - Build the algorithm visualizer idea for usc
+ - Build the algorithm visualizer for a few data structures and algorithms. Do this using stencil and types script.
+ - Build the golang API for the numpy library that is in python... talk about them
  - Review Docker and Kubernetes material 
+ - Build a website using golang which would just be about who you are and what not.
+ - Build a wrapper for the python library Scipy and Numpy
+ - Build a CLI tool which allows for google docs editing from the command line.
+
+ - Learn how to build a database like boltdb by researching leveldb and rocksdb. google how to build mysql db. learn how postgres stores things, etc. Really
+ - dive deep into database stuff
 
  - # STD Issues to fix in ver 3.0:
  - Need to create the list rename function 
@@ -16,6 +23,11 @@
  - Make something that will show all of the aliases that you have made for std 
  - You could also come up with something that will let you send this note to someone via an imessage or email 
  - Use regular expressions to match up similar input for std
+
+ - # RTC Updates
+
+ - Allow for long term storage of the data that you are creating.
+ - Create ability to ship json data of the data that you get from the code
 
  - # Side projects ideas
  - Make a CLI about URL Shortening 
@@ -44,15 +56,5 @@
  - Built a real life compiler and displayer for the basic programming language implementation you worked on.
 
  - # Thanksgiving Week Hacking
-
- - Learn the 5 JS development frameworks for Web Publishing
- - Build out the iOS app more:
- - - Get the QR code implementation finished
-
-
- - Build out the website for Helper:
- - - Build it using Vue JS!
-
-
 
  - current git location: /Users/benmorehouse/repositories/backlog
