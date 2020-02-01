@@ -2,20 +2,20 @@
 
  - # Top projects
 
+ - Basic Interpreter web app
  - Hashicorp Python wrapper
  - Hackernews cli
  - Yaml parser in Go
- - Work with Ginkgo testing for alGOrithms
- - Build the Gofiler tool
- - Build the algorithm visualizer for a few data structures and algorithms. Do this using stencil and types script.
+ - Build the Gofiler tool or get rid of it.
+ - Build the algorithm visualizer for a few data structures and algorithms. Do this using stencil and typescript.
  - Build the golang API for the numpy library that is in python... talk about them
  - Review Docker and Kubernetes material 
  - Build a website using golang which would just be about who you are and what not.
- - Build a wrapper for the python library Scipy and Numpy
  - Build a CLI tool which allows for google docs editing from the command line.
-
+ - Wrapper for Numpy and scipy python framework written in go. You would use the command/exec format to run the commands and get the values.
  - Learn how to build a database like boltdb by researching leveldb and rocksdb. google how to build mysql db. learn how postgres stores things, etc. Really
- - dive deep into database stuff
+ - dive deep into database stuff with the above project
+ - build the go lorum ipsum
 
  - # STD Issues to fix in ver 3.0:
  - Need to create the list rename function 
