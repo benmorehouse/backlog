@@ -5,17 +5,20 @@
  - Basic Interpreter web app
  - Hashicorp Python wrapper
  - Hackernews cli
- - Yaml parser in Go
+ - Yaml parser in Go => GAML
  - Build the Gofiler tool or get rid of it.
  - Build the algorithm visualizer for a few data structures and algorithms. Do this using stencil and typescript.
  - Build the golang API for the numpy library that is in python... talk about them
  - Review Docker and Kubernetes material 
- - Build a website using golang which would just be about who you are and what not.
+ - Build your personal website
  - Build a CLI tool which allows for google docs editing from the command line.
  - Wrapper for Numpy and scipy python framework written in go. You would use the command/exec format to run the commands and get the values.
- - Learn how to build a database like boltdb by researching leveldb and rocksdb. google how to build mysql db. learn how postgres stores things, etc. Really
- - dive deep into database stuff with the above project
- - build the go lorum ipsum
+ - Learn how to build a database like boltdb by researching leveldb and rocksdb. google how to build mysql db. learn how postgres stores things, etc.
+ - build the go lorum ipsum tool 
+ - build a tool that will be able to tell you if two structs are equal or not. This should emulate similar to what is offered in reflect.
+ - Open source Helper
+ - Build something that will interact with Tinder and Bumble and do the swipes for you and then just create a web app that will display stuff for you.
+ - Build a go API to interact with RescueTime
 
  - # STD Issues to fix in ver 3.0:
  - Need to create the list rename function 
