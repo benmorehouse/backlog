@@ -19,6 +19,7 @@
  - Open source Helper
  - Build something that will interact with Tinder and Bumble and do the swipes for you and then just create a web app that will display stuff for you.
  - Build a go API to interact with RescueTime
+ - Build an iOS application that will tell me to Commit every day => Mr. Commit !
 
  - # STD Issues to fix in ver 3.0:
  - Need to create the list rename function 
