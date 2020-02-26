@@ -17,9 +17,13 @@
  - build the go lorum ipsum tool 
  - build a tool that will be able to tell you if two structs are equal or not. This should emulate similar to what is offered in reflect.
  - Open source Helper
+ - Build something that will interact with Tinder and Bumble and do the swipes for you and then just create a web app that will display stuff for you.
  - Build a go API to interact with RescueTime
  - Build an iOS application that will tell me to Commit every day => Mr. Commit !
  - Build a Go API for sorting all the other types that it doesn't sort automatically for you.
+ - Build a Go SQL Generator with where clauses, join clauses, and other stuff. Essentially will act as a wrapper for the database/sql library which requires hard coded strings
+ - Build a calendar CLI in golang . => GOCal
+
 
  - # Apple
 
