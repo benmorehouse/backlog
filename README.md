@@ -23,7 +23,7 @@
  - Build a Go API for sorting all the other types that it doesn't sort automatically for you.
  - Build a Go SQL Generator with where clauses, join clauses, and other stuff. Essentially will act as a wrapper for the database/sql library which requires hard coded strings
  - Build a calendar CLI in golang . => GOCal
-
+ - Build a way to track how much time you spend working on each repository.
 
  - # Apple
 
